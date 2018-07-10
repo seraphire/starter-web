@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Explaining how to use this document and how to commit multiple changes
 
+This is committed locally, but will not be pushed to the origin just yet.
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -21,3 +23,5 @@ How to deploy this
 This is another useful document
 
 ## Example usage
+
+Do something cool with it
