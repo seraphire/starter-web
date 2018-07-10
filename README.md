@@ -15,3 +15,5 @@ This is a markdown example.
 ## How to contribute
 
 This is another useful document
+
+## Example usage
