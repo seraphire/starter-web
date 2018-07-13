@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Explaining how to use this document and how to commit multiple changes
 
-This is committed locally, but will not be pushed to the origin just yet.
+This is in the local, not staged directory
 
 ## Purpose
 
@@ -16,7 +16,7 @@ This is a markdown example.
 
 ## Deployment
 
-How to deploy this
+How to deploy this.  Copy these files to your favorite web server.
 
 ## How to contribute
 
