@@ -21,6 +21,7 @@ How to deploy this.  Copy these files to your favorite web server.
 ## How to contribute
 
 This is another useful document
+Please fork this repository. 
 
 ## Example usage
 
