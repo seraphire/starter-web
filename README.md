@@ -25,3 +25,6 @@ This is another useful document
 ## Example usage
 
 Do something cool with it
+
+### Copyright
+Copyright
