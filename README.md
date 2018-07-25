@@ -31,4 +31,4 @@ Do something cool with it
 Copyright
 
 ### Rebase sample
-This is for rebasing
+This is for rebasing.  Now we are editing this on the feature branch
