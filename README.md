@@ -29,3 +29,6 @@ Do something cool with it
 
 ### Copyright
 Copyright
+
+### Rebase sample
+This is for rebasing
