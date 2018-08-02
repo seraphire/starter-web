@@ -32,3 +32,6 @@ Copyright
 
 ### Rebase sample
 This is for rebasing.  Now we are editing this on the feature branch
+
+### Stash
+Data changed in stash
