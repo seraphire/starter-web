@@ -4,18 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	Ben		Lead	
 
 # THANKS
 
     <name>
-	For all the fish
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
-    php (stash test)
-
-
-    More stuff!
